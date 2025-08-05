@@ -31,7 +31,7 @@ Verranno mostrati in standard output il file originale e il file modificato.
 EX7:\
 Questo script estrae informazioni sull'architettura della CPU in uso e le copia all'interno del file 'lscpu.txt', nella cartella 'ex7'.
 Viene inoltre creato un ulteriore file ('CPU_arch.txt') contenente solo informazioni su 'CPU name', 'Threads', 'Cores' e 'NUMAs'.
-Verranno mostrati in standard output le informazioni ricavate e copiate su file.
+Verranno mostrati in standard output le informazioni ricavate e copiate su 'lscpu.txt'.
 
 PYTHON SCRIPT:\
 Questo script carica un file contenente dati riguardanti aloni o strutture cosmologiche e lo analizza in vari punti.
