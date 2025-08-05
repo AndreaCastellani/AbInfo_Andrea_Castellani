@@ -1,5 +1,5 @@
 All'interno di questa repository sono contenuti gli esercizi d'esame per il corso di Abilità Informatiche (4 esercizi in bash e 1 esercizio in Python).
-All'interno della cartella 'Bash_scripts' sono contenute le cartelle relative ai 4 esercizi in bash (esercizi 1-5-6-7), con all'interno i corrispondenti script, mentre all'interno della cartella 'Python_script' è contenuto lo script dell'esercizio in Python.
+All'interno della cartella 'Bash_scripts' sono contenute le cartelle relative ai 4 esercizi in bash (esercizi 1-5-6-7), con all'interno i corrispondenti script, mentre all'interno della cartella 'Python_script' è contenuto lo script dell'esercizio in Python e il file dati da analizzare.
 
 ISTRUZIONI PER L'ESECUZIONE:
 
