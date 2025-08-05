@@ -11,5 +11,6 @@ chmod +x ex1/ex1.sh ex5/ex5.sh ex6/ex6.sh ex7/ex7.sh
 
 Selezionare un esercizio (entrando nella relativa cartella) ed eseguirlo con './ex*.sh' (* indica il numero dell'esercizio)
 
-SCRIPT IN PYTHON:
+SCRIPT IN PYTHON:\
 Aprire il file 'Abilita_informatiche.ipynb' ed eseguire il codice
+
