@@ -5,7 +5,7 @@ ISTRUZIONI PER L'ESECUZIONE:
 
 Scaricare le cartelle 'Bash_scripts' e 'Python_script'
 
-SCRIPT IN BASH:
+SCRIPT IN BASH:\
 All'interno della cartella 'Bash_scripts', rendere eseguibili gli script usando il comando:
 chmod +x ex1/ex1.sh ex5/ex5.sh ex6/ex6.sh ex7/ex7.sh
 
